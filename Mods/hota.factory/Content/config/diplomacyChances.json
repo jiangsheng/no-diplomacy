@@ -1,0 +1,16 @@
+{ 
+	"hota.factory:artificer" :
+	{
+		"secondarySkills" :
+		{
+			"diplomacy" : 0
+		}
+	},
+	"hota.factory:mercenary" :
+	{
+		"secondarySkills" :
+		{
+			"diplomacy" : 0
+		}
+	}
+}

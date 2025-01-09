@@ -1,0 +1,17 @@
+{
+	"hota.factory:04melchior":
+	{
+		"special" : true,
+		"skills":
+		[
+			{
+				"skill" : "leadership",
+				"level": "basic"
+			},
+			{
+				"skill" : "tactics",
+				"level": "basic"
+			}
+		]
+	}
+}

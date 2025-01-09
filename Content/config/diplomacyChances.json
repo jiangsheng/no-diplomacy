@@ -1,0 +1,128 @@
+{
+	"core:knight":
+	{
+		"secondarySkills" :
+		{
+			"diplomacy" : 0
+		}
+	},
+	"core:cleric" :
+	{
+		"secondarySkills" :
+		{
+			"diplomacy" : 0
+		}
+	},
+	"core:ranger" :
+	{
+		"secondarySkills" :
+		{
+			"diplomacy" : 0
+		}
+	},
+	"core:druid" :
+	{
+		"secondarySkills" :
+		{
+			"diplomacy" : 0
+		}
+	},
+	"core:alchemist" :
+	{
+		"secondarySkills" :
+		{
+			"diplomacy" : 0
+		}
+	},
+	"core:wizard" :
+	{
+		"secondarySkills" :
+		{
+			"diplomacy" : 0
+		}
+	},
+	"core:demoniac" :
+	{
+		"secondarySkills" :
+		{
+			"diplomacy" : 0
+		}
+	},
+	"core:heretic" :
+	{
+		"secondarySkills" :
+		{
+			"diplomacy" : 0
+		}
+	},
+	"core:deathknight" :
+	{
+		"secondarySkills" :
+		{
+			"diplomacy" : 0
+		}
+	},
+	"core:necromancer" :
+	{
+		"secondarySkills" :
+		{
+			"diplomacy" : 0
+		}
+	},
+	"core:warlock" :
+	{
+		"secondarySkills" :
+		{
+			"diplomacy" : 0
+		}
+	},
+	"core:overlord" :
+	{
+		"secondarySkills" :
+		{
+			"diplomacy" : 0
+		}
+	},
+	"core:barbarian" :
+	{
+		"secondarySkills" :
+		{
+			"diplomacy" : 0
+		}
+	},
+	"core:battlemage" :
+	{
+		"secondarySkills" :
+		{
+			"diplomacy" : 0
+		}
+	},
+	"core:beastmaster" :
+	{
+		"secondarySkills" :
+		{
+			"diplomacy" : 0
+		}
+	},
+	"core:witch" :
+	{
+		"secondarySkills" :
+		{
+			"diplomacy" : 0
+		}
+	},
+	"core:planeswalker" :
+	{
+		"secondarySkills" :
+		{
+			"diplomacy" : 0
+		}
+	},
+	"core:elementalist" :
+	{
+		"secondarySkills" :
+		{
+			"diplomacy" : 0
+		}
+	} 
+}

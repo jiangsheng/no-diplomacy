@@ -1,0 +1,16 @@
+{ 
+	"hota.cove:captain" :
+	{
+		"secondarySkills" :
+		{
+			"diplomacy" : 0
+		}
+	},
+	"hota.cove:navigator" :
+	{
+		"secondarySkills" :
+		{
+			"diplomacy" : 0
+		}
+	}
+}

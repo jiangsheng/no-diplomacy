@@ -1,0 +1,44 @@
+{
+	"core:ryland":
+	{
+		"skills":
+		[
+			{
+				"skill" : "leadership",
+				"level": "basic"
+			},
+			{
+				"skill" : "tactics",
+				"level": "basic"
+			}
+		]
+	},
+	"core:cyra":
+	{
+		"skills":
+		[
+			{
+				"skill" : "wisdom",
+				"level": "basic"
+			},
+			{
+				"skill" : "airMagic",
+				"level": "basic"
+			}
+		]
+	} ,
+	"core:adela":
+	{
+		"skills":
+		[
+			{
+				"skill" : "wisdom",
+				"level": "basic"
+			},
+			{
+				"skill" : "waterMagic",
+				"level": "basic"
+			}
+		]
+	}
+}
