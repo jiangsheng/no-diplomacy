@@ -1,5 +1,5 @@
 {
-    "diplomacy" : {
+    "core:diplomacy" : {
         "special" :true
     }
 }

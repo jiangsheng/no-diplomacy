@@ -1,0 +1,16 @@
+{ 
+	"cathedral-town:cthbishop" :
+	{
+		"secondarySkills" :
+		{
+			"core:diplomacy" : 0
+		}
+	},
+	"cathedral-town:redtemplar" :
+	{
+		"secondarySkills" :
+		{
+			"core:diplomacy" : 0
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{ 
+	"courtyard:philosopher" :
+	{
+		"secondarySkills" :
+		{
+			"core:diplomacy" : 0
+		}
+	},
+	"courtyard:aristocrat" :
+	{
+		"secondarySkills" :
+		{
+			"core:diplomacy" : 0
+		}
+	}
+}

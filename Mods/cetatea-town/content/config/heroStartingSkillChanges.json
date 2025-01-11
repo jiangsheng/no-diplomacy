@@ -1,0 +1,49 @@
+{
+	"cetatea-town:alicuza":
+	{	
+		"images" :
+		{
+			"specialtySmall" : "cetatea/heroes/alicuza/spec-small.png",
+			"specialtyLarge" : "cetatea/heroes/alicuza/spec-large.png"
+		},
+		"skills":
+		[
+			{ "skill" : "leadership", "level": "basic" },
+			{ "skill" : "estates", "level": "basic" }
+		],
+		"texts" :
+		{		
+			"specialty" : {
+				"description" : "Receives a 5% per level bonus to Estates skill.",
+				"name" : "Estates",
+				"tooltip" : "Secondary Skill Bonus: Estates"
+			}
+		},
+		"specialty" : {
+			"bonuses" : {
+				"estates" : {
+					"subtype" : "resource.gold",
+					"type" : "GENERATE_RESOURCE",
+					"updater" : "TIMES_HERO_LEVEL",
+					"val" : 5,
+					"valueType" : "PERCENT_TO_TARGET_TYPE",
+					"targetSourceType" : "SECONDARY_SKILL"
+				}
+			}
+		}
+	},
+	"cetatea-town:brancoveanu"
+	{
+		"skills" :
+		[
+			{
+				"level" : "basic",
+				"skill" : "leadership"
+			},
+			{
+				"level" : "basic",
+				"skill" : "wisdom"
+			}
+		]
+	}
+}

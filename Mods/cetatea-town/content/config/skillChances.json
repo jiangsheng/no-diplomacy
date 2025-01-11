@@ -1,0 +1,16 @@
+{ 
+	"cetatea-town:ovate" :
+	{
+		"secondarySkills" :
+		{
+			"core:diplomacy" : 0
+		}
+	},
+	"cetatea-town:voivode" :
+	{
+		"secondarySkills" :
+		{
+			"core:diplomacy" : 0
+		}
+	}
+}

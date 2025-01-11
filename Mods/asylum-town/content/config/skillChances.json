@@ -1,0 +1,16 @@
+{ 
+	"asylum-town:mentalist" :
+	{
+		"secondarySkills" :
+		{
+			"core:diplomacy" : 0
+		}
+	},
+	"asylum-town:pathfinder" :
+	{
+		"secondarySkills" :
+		{
+			"core:diplomacy" : 0
+		}
+	}
+}

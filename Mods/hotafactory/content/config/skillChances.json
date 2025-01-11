@@ -3,14 +3,14 @@
 	{
 		"secondarySkills" :
 		{
-			"diplomacy" : 0
+			"core:diplomacy" : 0
 		}
 	},
 	"hota.factory:mercenary" :
 	{
 		"secondarySkills" :
 		{
-			"diplomacy" : 0
+			"core:diplomacy" : 0
 		}
 	}
 }

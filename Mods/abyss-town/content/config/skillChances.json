@@ -1,0 +1,16 @@
+{ 
+	"abyss-town:abyssalShaman" :
+	{
+		"secondarySkills" :
+		{
+			"core:diplomacy" : 0
+		}
+	},
+	"abyss-town:ichthyander" :
+	{
+		"secondarySkills" :
+		{
+			"core:diplomacy" : 0
+		}
+	}
+}

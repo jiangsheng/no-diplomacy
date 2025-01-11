@@ -1,0 +1,33 @@
+{
+	"hota.factory:04melchior":
+	{		
+		"texts" :
+		{
+			"specialty" :{
+				"name" :		"Harmony",
+				"tooltip" :		"Specialty bonus: Harmony",
+				"description" : "All creatures are unaffected by negative morale."
+			}
+		},
+		"skills":
+		[
+			{
+				"skill" : "offence",
+				"level": "basic"
+			},
+			{
+				"skill" : "tactics",
+				"level": "basic"
+			}
+		],
+		"specialty":{
+			"bonuses" :{
+				"selfMorale":{
+					"type" :		"MORALE",
+					"val" : 		0,
+					"valueType" : 	"INDEPENDENT_MAX"
+				}
+			}
+		}
+	}
+}

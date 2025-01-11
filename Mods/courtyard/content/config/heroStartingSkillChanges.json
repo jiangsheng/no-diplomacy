@@ -1,0 +1,28 @@
+{
+	"courtyard:04dizheel":
+	{	
+		"skills" : [ { "level" : "basic", "skill" : "leadership" }, { "level" : "basic", "skill" : "logistics" } ],
+		"texts" :
+		{		
+			"specialty" : {
+				"name" :		"Harmony",
+				"tooltip" :		"Specialty bonus: Harmony",
+				"description" : "All creatures are unaffected by negative morale."
+			}
+		},
+		"specialty":{
+			"bonuses" :{
+				"selfMorale":{
+					"type" :		"MORALE",
+					"val" : 		0,
+					"valueType" : 	"INDEPENDENT_MAX"
+				}
+			}
+		}
+	},
+	"courtyard:06ophrys":
+	{	
+	
+		"skills" : [ { "level" : "basic", "skill" : "leadership" }, { "level" : "basic", "skill" : "tactics" } ]		
+	}
+}

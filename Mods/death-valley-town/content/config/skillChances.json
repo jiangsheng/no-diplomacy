@@ -1,0 +1,16 @@
+{ 
+	"death-valley-town:dvDeathlord" :
+	{
+		"secondarySkills" :
+		{
+			"core:diplomacy" : 0
+		}
+	},
+	"death-valley-town:dvNecropriest" :
+	{
+		"secondarySkills" :
+		{
+			"core:diplomacy" : 0
+		}
+	}
+}
