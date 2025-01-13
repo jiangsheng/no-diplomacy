@@ -1,0 +1,16 @@
+{ 
+	"forge2k:cyborg2k" :
+	{
+		"secondarySkills" :
+		{
+			"core:diplomacy" : 0
+		}
+	},
+	"forge2k:technoJunk2k" :
+	{
+		"secondarySkills" :
+		{
+			"core:diplomacy" : 0
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{ 
+	"forge:technic" :
+	{
+		"secondarySkills" :
+		{
+			"core:diplomacy" : 0
+		}
+	},
+	"forge:cyborg" :
+	{
+		"secondarySkills" :
+		{
+			"core:diplomacy" : 0
+		}
+	}
+}

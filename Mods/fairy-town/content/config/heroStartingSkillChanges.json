@@ -1,0 +1,32 @@
+{
+	"fairy-town:ftP_Arina":
+	{		
+		"texts" :
+		{
+			"specialty" :{
+				"name" :		"Esteemed",
+				"tooltip" :		"Specialty bonus: Esteemed",
+				"description" : "Making any terrain native to the creatures under control."
+			}
+		},
+		"skills":
+		[
+			{
+				"skill" : "wisdom",
+				"level": "basic"
+			},
+			{
+				"skill" : "logistics",
+				"level": "basic"
+			}
+		],
+		"specialty":{
+			"bonuses" :{
+				"Terrain_Native":{
+					"type" :		"TERRAIN_NATIVE",
+					"propagator" : "HERO"
+				}
+			}
+		}
+	}
+}

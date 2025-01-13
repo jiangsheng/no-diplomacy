@@ -1,0 +1,16 @@
+{ 
+	"factory-creatures:unArtificer" :
+	{
+		"secondarySkills" :
+		{
+			"core:diplomacy" : 0
+		}
+	},
+	"factory-creatures:unMercenary" :
+	{
+		"secondarySkills" :
+		{
+			"core:diplomacy" : 0
+		}
+	}
+}

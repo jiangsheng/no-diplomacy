@@ -1,0 +1,16 @@
+{ 
+	"fairy-town:diviner" :
+	{
+		"secondarySkills" :
+		{
+			"core:diplomacy" : 0
+		}
+	},
+	"fairy-town:keeper" :
+	{
+		"secondarySkills" :
+		{
+			"core:diplomacy" : 0
+		}
+	}
+}
