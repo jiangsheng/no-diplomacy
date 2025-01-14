@@ -1,0 +1,16 @@
+{ 
+	"neutral-heroes:drifterF" :
+	{
+		"secondarySkills" :
+		{
+			"core:diplomacy" : 0
+		}
+	},
+	"neutral-heroes:drifterM" :
+	{
+		"secondarySkills" :
+		{
+			"core:diplomacy" : 0
+		}
+	}
+}

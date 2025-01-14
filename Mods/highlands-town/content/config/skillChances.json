@@ -1,0 +1,16 @@
+{ 
+	"highlands-town:bpyromancer" :
+	{
+		"secondarySkills" :
+		{
+			"core:diplomacy" : 0
+		}
+	},
+	"highlands-town:bwarlord" :
+	{
+		"secondarySkills" :
+		{
+			"core:diplomacy" : 0
+		}
+	}
+}

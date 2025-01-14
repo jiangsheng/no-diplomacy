@@ -1,0 +1,16 @@
+{ 
+	"haven-town:havAhero" :
+	{
+		"secondarySkills" :
+		{
+			"core:diplomacy" : 0
+		}
+	},
+	"haven-town:havMhero" :
+	{
+		"secondarySkills" :
+		{
+			"core:diplomacy" : 0
+		}
+	}
+}

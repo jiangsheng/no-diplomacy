@@ -1,0 +1,16 @@
+{ 
+	"kremlin-town:vityaz" :
+	{
+		"secondarySkills" :
+		{
+			"core:diplomacy" : 0
+		}
+	},
+	"kremlin-town:volhv" :
+	{
+		"secondarySkills" :
+		{
+			"core:diplomacy" : 0
+		}
+	}
+}

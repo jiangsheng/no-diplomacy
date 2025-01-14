@@ -1,0 +1,16 @@
+{ 
+	"greenhouse-town:gardener" :
+	{
+		"secondarySkills" :
+		{
+			"core:diplomacy" : 0
+		}
+	},
+	"greenhouse-town:farmer" :
+	{
+		"secondarySkills" :
+		{
+			"core:diplomacy" : 0
+		}
+	}
+}

@@ -1,0 +1,16 @@
+{ 
+	"farriery-town:engineer" :
+	{
+		"secondarySkills" :
+		{
+			"core:diplomacy" : 0
+		}
+	},
+	"farriery-town:technik" :
+	{
+		"secondarySkills" :
+		{
+			"core:diplomacy" : 0
+		}
+	}
+}

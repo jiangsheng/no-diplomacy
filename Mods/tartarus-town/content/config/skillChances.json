@@ -1,0 +1,16 @@
+{ 
+	"tartarus-town:taHeroA" :
+	{
+		"secondarySkills" :
+		{
+			"core:diplomacy" : 0
+		}
+	},
+	"tartarus-town:taHeroM" :
+	{
+		"secondarySkills" :
+		{
+			"core:diplomacy" : 0
+		}
+	}
+}

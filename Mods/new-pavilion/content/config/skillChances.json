@@ -1,0 +1,16 @@
+{ 
+	"new-pavilion:vizier" :
+	{
+		"secondarySkills" :
+		{
+			"core:diplomacy" : 0
+		}
+	},
+	"new-pavilion:embalmer" :
+	{
+		"secondarySkills" :
+		{
+			"core:diplomacy" : 0
+		}
+	}
+}

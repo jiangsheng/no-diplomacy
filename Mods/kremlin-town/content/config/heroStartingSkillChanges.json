@@ -1,0 +1,16 @@
+{
+	"kremlin-town:rusVseglas":
+	{				
+		"skills":
+		[
+			{
+				"skill" : "wisdom",
+				"level": "basic"
+			},
+			{
+				"skill" : "tactics",
+				"level": "basic"
+			}
+		]
+	}
+}

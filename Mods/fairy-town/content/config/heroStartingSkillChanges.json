@@ -6,7 +6,7 @@
 			"specialty" :{
 				"name" :		"Esteemed",
 				"tooltip" :		"Specialty bonus: Esteemed",
-				"description" : "Making any terrain native to the creatures under control."
+				"description" : "Making any terrain native to the creatures under her control."
 			}
 		},
 		"skills":
@@ -23,8 +23,7 @@
 		"specialty":{
 			"bonuses" :{
 				"Terrain_Native":{
-					"type" :		"TERRAIN_NATIVE",
-					"propagator" : "HERO"
+					"type" :		"TERRAIN_NATIVE","propagator" : "HERO"
 				}
 			}
 		}

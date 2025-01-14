@@ -1,0 +1,16 @@
+{
+	"new-pavilion:cassandra":
+	{		
+		"skills" :
+		[
+			{
+				"level" : "basic",
+				"skill" : "resistance"
+			},
+			{
+				"level" : "basic",
+				"skill" : "leadership"
+			}
+		],
+	}
+}

@@ -1,0 +1,36 @@
+{
+	"neutral-heroes.hota_heroes:amron":
+	{
+		"skills" : [
+			{
+				"skill" : "interference",
+				"level" : "basic"
+			},
+			{
+				"skill" : "armorer",
+				"level" : "basic"
+			},
+			{
+				"skill" : "tactics",
+				"level" : "basic"
+			}
+		]
+	},
+	"neutral-heroes.wogneutralheroes:hegnaar":
+	{
+		"skills" : [
+			{
+				"skill" : "fireMagic",
+				"level" : "basic"
+			},
+			{
+				"skill" : "wisdom",
+				"level" : "basic"
+			},
+			{
+				"skill" : "resistance",
+				"level" : "basic"
+			}
+		]
+	}
+}

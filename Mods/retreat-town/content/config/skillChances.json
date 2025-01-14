@@ -1,0 +1,16 @@
+{ 
+	"retreat-town:vanguard" :
+	{
+		"secondarySkills" :
+		{
+			"core:diplomacy" : 0
+		}
+	},
+	"retreat-town:yingYanMaster" :
+	{
+		"secondarySkills" :
+		{
+			"core:diplomacy" : 0
+		}
+	}
+}

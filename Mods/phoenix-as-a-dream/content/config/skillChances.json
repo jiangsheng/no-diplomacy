@@ -1,0 +1,23 @@
+{ 
+	"phoenix-as-a-dream:paadArmageddonJudger" :
+	{
+		"secondarySkills" :
+		{
+			"core:diplomacy" : 0
+		}
+	},
+	"phoenix-as-a-dream:paadFireDominator" :
+	{
+		"secondarySkills" :
+		{
+			"core:diplomacy" : 0
+		}
+	},
+	"phoenix-as-a-dream:paadPhoenixSummoner" :
+	{
+		"secondarySkills" :
+		{
+			"core:diplomacy" : 0
+		}
+	}
+}

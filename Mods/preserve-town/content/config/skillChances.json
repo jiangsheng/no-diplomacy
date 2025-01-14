@@ -1,0 +1,16 @@
+{ 
+	"preserve-town:bard" :
+	{
+		"secondarySkills" :
+		{
+			"core:diplomacy" : 0
+		}
+	},
+	"preserve-town:guardian" :
+	{
+		"secondarySkills" :
+		{
+			"core:diplomacy" : 0
+		}
+	}
+}

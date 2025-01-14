@@ -1,5 +1,5 @@
 {
-	"factory-creatures:melchior":
+	"refugee-town:rfghShayan":
 	{		
 		"texts" :
 		{
@@ -22,13 +22,17 @@
 		],
 		"specialty":{
 			"bonuses" :{
-				"selfMorale":
-				{
+				"selfMorale":{
 					"type" :		"MORALE",
 					"val" : 		0,
 					"valueType" : 	"INDEPENDENT_MAX"
 				}
 			}
 		}
+	},
+	"refugee-town:rfghSierra":
+	{		"skills" :[
+		{ "level" :		"basic",	"skill" :	"wisdom" },
+		{ "level" :		"basic",	"skill" :	"leadership" }]
 	}
 }

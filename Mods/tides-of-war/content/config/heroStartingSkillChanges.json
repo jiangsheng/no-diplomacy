@@ -1,0 +1,16 @@
+{
+	"tides-of-war.heroes:eyzeaDemoniac":
+	{	
+		"skills":
+		[
+			{
+				"skill" : "intimidation",
+				"level": "basic"
+			},
+			{
+				"skill" : "tactics",
+				"level": "basic"
+			}
+		]
+	}
+}

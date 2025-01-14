@@ -1,5 +1,5 @@
 {
-	"factory-creatures:melchior":
+	"greenhouse-town:bonio":
 	{		
 		"texts" :
 		{
@@ -22,8 +22,7 @@
 		],
 		"specialty":{
 			"bonuses" :{
-				"selfMorale":
-				{
+				"selfMorale":{
 					"type" :		"MORALE",
 					"val" : 		0,
 					"valueType" : 	"INDEPENDENT_MAX"

@@ -1,0 +1,16 @@
+{
+	"preserve-town:f_ceretus":
+	{	
+		"skills":
+		[
+			{
+				"skill" : "resistance",
+				"level": "basic"
+			},
+			{
+				"skill" : "tactics",
+				"level": "basic"
+			}
+		]
+	}
+}
