@@ -1,5 +1,5 @@
 {
-	"name" : "No diplomacy for hota cov",
+	"name" : "No diplomacy for the Cov town in the HotA expansion",
 	"description" : "Remove diplomacy from cov heroes in hota",
 	"modType" : "Mechanics",
 	"author" : "Sheng Jiang",

@@ -16,13 +16,13 @@
 		"name" : "禁止外交:战争之潮（ToW）",
 		"description" : "在战争之潮新增英雄中禁止外交技能"		
 	},
-	"softDepends" :
+	"depends":
 		[
-			"tides-of-war",
 			"tides-of-war.skills"
 		],
 	"heroes" :
 	[
 		"config/heroStartingSkillChanges"
-	]
+	],
+	"keepDisabled" : true
 }
